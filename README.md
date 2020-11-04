@@ -9,3 +9,9 @@ Add the below text at the end of file without enter space. For more information 
 
 <pre>socks4 	127.0.0.1 9050
 socks5 	127.0.0.1 9050</pre>
+
+Please watch the video first and get into the git back.
+#Please Subscribe EFX Tv.
+#Setup Proxychains Full video for Ubuntu https://youtu.be/6aS8-vwG7Pg
+#Setup Proxychains Full video for Kali Linux https://youtu.be/9hwCh47z7Ek
+#Commands List https://listofcommands.blogspot.com/2020/11/how-to-install-proxychains-in-ubuntu.html
