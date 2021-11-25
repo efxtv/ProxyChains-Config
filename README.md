@@ -18,3 +18,8 @@ Please watch the video first and get into the git back.
 #Setup Proxychains Full video for Ubuntu https://youtu.be/6aS8-vwG7Pg
 #Setup Proxychains Full video for Kali Linux https://youtu.be/9hwCh47z7Ek
 #Commands List https://listofcommands.blogspot.com/2020/11/how-to-install-proxychains-in-ubuntu.html
+
+---------------------------------------
+India :  7503453371@ybl<br />
+<a href="https://paypal.me/efxtv"><img src="https://raw.githubusercontent.com/efxtv/efxtv/master/assets/donate-efx-tv.png" alt="Paypal" width="125" height="40"></a>
+---------------------------------------
